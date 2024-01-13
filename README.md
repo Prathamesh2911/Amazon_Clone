@@ -1,2 +1,2 @@
-##AMAZON CLONE
-- Created Aamzon Clone using HTML & CSS
+#AMAZON CLONE
+Created Aamzon Clone using HTML & CSS
